@@ -5,7 +5,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:musharrafraja04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-musharraf-aa928a226/)
-[![Profile Views](https://komarev.com/ghpvc/)]([https://github.com/rajaMusharraf])
+[![Profile Views](https://komarev.com/ghpvc/?username=rajaMusharraf)](https://github.com/rajaMusharraf)
 
 ## About Me
 Experienced iOS developer with 4+ years of expertise in building high-performance, user-friendly mobile apps. Skilled in Swift and SwiftUI, with a strong focus on clean architecture, smooth UI/UX, and app performance. Passionate about creating scalable and reliable iOS solutions.
